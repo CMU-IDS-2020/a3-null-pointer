@@ -1,6 +1,6 @@
 # CMU Interactive Data Science Assigment 3
 
-* **Team members**: Jiecheng Xu (jiechenx) and Meijie
+* **Team members**: Jiecheng Xu (jiechenx) and Meijie Hu (meijieh)
 * **Online URL**: https://share.streamlit.io/cmu-ids-2020/a3-null-pointer
 
 ## Instructions
